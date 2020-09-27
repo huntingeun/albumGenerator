@@ -1,0 +1,23 @@
+body {
+  font-family: Drake Neue;
+  font-size: 9rem;
+  line-height: 1;
+
+  width: 620px;
+  margin: 40px auto 40px auto;
+  word-break: break-word;
+
+  text-transform: lowercase;
+
+  background-color: #ffffff;
+  color: #333333;
+}
+
+textarea {
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+}
